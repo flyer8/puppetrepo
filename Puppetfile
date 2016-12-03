@@ -8,4 +8,4 @@ mod 'stahnma-epel', '1.2.2'
 
 # Modules from Git
 mod 'docker_cluster',
-  :git    => 'https://github.com/flyer8/docker_cluster',
+  :git    => 'https://github.com/flyer8/docker_cluster'
