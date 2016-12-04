@@ -1,2 +1,2 @@
 # rproduction repo
-R10K Puppet repo
+execute on puppet master: r10k deploy environment production --puppetfile
