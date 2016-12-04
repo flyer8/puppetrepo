@@ -1,5 +1,5 @@
 # production repo
-For pulling from this reo please execute on puppet master: 
+For pulling from this repo please execute on puppet master: 
 ```
 r10k deploy environment production --puppetfile
 ```
